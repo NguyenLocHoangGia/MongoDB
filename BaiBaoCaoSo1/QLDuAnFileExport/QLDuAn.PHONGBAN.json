@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6806694f74c4e2269dc16978"
+  },
+  "MaPB": 5,
+  "TenPB": "Nghien cuu",
+  "TrPhong": 333445555,
+  "NgNhanChuc ": "22/06/1988 "
+},
+{
+  "_id": {
+    "$oid": "6806694f74c4e2269dc16979"
+  },
+  "MaPB": 4,
+  "TenPB": "Hanh chinh",
+  "TrPhong": 987654321,
+  "NgNhanChuc ": "01/01/1995 "
+},
+{
+  "_id": {
+    "$oid": "6806694f74c4e2269dc1697a"
+  },
+  "MaPB": 1,
+  "TenPB": "Giao duc",
+  "TrPhong": 888665555,
+  "NgNhanChuc ": "19/06/1981"
+}]

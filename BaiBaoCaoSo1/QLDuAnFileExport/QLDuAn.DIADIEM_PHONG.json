@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68066f9999116b47a2583520"
+  },
+  "MaPB": 1,
+  "DiaDiem ": "Phu Nhuan "
+},
+{
+  "_id": {
+    "$oid": "68066f9999116b47a2583521"
+  },
+  "MaPB": 4,
+  "DiaDiem ": "Go Vap "
+},
+{
+  "_id": {
+    "$oid": "68066f9999116b47a2583522"
+  },
+  "MaPB": 5,
+  "DiaDiem ": "Tan Binh "
+},
+{
+  "_id": {
+    "$oid": "68066f9999116b47a2583523"
+  },
+  "MaPB": 5,
+  "DiaDiem ": "Phu Nhuan "
+},
+{
+  "_id": {
+    "$oid": "68066f9999116b47a2583524"
+  },
+  "MaPB": 5,
+  "DiaDiem ": "Thu Duc"
+}]

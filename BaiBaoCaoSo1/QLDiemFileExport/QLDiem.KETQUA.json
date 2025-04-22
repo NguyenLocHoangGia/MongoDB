@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fde"
+  },
+  "MaSV": "A01",
+  "MaMH": 1,
+  "LanThi": 1,
+  "Diem": 3
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fdf"
+  },
+  "MaSV": "A01",
+  "MaMH": 1,
+  "LanThi": 2,
+  "Diem": 6
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe0"
+  },
+  "MaSV": "A01",
+  "MaMH": 2,
+  "LanThi": 2,
+  "Diem": 6
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe1"
+  },
+  "MaSV": "A01",
+  "MaMH": 3,
+  "LanThi": 1,
+  "Diem": 5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe2"
+  },
+  "MaSV": "A02",
+  "MaMH": 1,
+  "LanThi": 1,
+  "Diem": 4.5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe3"
+  },
+  "MaSV": "A02",
+  "MaMH": 1,
+  "LanThi": 2,
+  "Diem": 7
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe4"
+  },
+  "MaSV": "A02",
+  "MaMH": 3,
+  "LanThi": 1,
+  "Diem": 10
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe5"
+  },
+  "MaSV": "A02",
+  "MaMH": 5,
+  "LanThi": 1,
+  "Diem": 9
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe6"
+  },
+  "MaSV": "A03",
+  "MaMH": 1,
+  "LanThi": 1,
+  "Diem": 2
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe7"
+  },
+  "MaSV": "A03",
+  "MaMH": 1,
+  "LanThi": 2,
+  "Diem": 5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe8"
+  },
+  "MaSV": "A03",
+  "MaMH": 3,
+  "LanThi": 1,
+  "Diem": 2.5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fe9"
+  },
+  "MaSV": "A03",
+  "MaMH": 3,
+  "LanThi": 2,
+  "Diem": 4
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fea"
+  },
+  "MaSV": "A04",
+  "MaMH": 5,
+  "LanThi": 2,
+  "Diem": 10
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5feb"
+  },
+  "MaSV": "B01",
+  "MaMH": 1,
+  "LanThi": 1,
+  "Diem": 7
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fec"
+  },
+  "MaSV": "B01",
+  "MaMH": 3,
+  "LanThi": 1,
+  "Diem": 2.5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fed"
+  },
+  "MaSV": "B01",
+  "MaMH": 3,
+  "LanThi": 2,
+  "Diem": 5
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fee"
+  },
+  "MaSV": "B02",
+  "MaMH": 2,
+  "LanThi": 1,
+  "Diem": 6
+},
+{
+  "_id": {
+    "$oid": "6806319e5f9dbf6beaeb5fef"
+  },
+  "MaSV": "B02",
+  "MaMH": 4,
+  "LanThi": 1,
+  "Diem": 10
+}]

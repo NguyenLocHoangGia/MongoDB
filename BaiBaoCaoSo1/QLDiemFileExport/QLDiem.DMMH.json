@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6804b3111c68b5e1805124cf"
+  },
+  "MaMH": 1,
+  "TenMH": "Cơ sở dữ liệu",
+  "SoTiet": 45
+},
+{
+  "_id": {
+    "$oid": "6804b3111c68b5e1805124d0"
+  },
+  "MaMH": 2,
+  "TenMH": "Trí tuệ nhân tạo",
+  "SoTiet": 60
+},
+{
+  "_id": {
+    "$oid": "6804b3111c68b5e1805124d1"
+  },
+  "MaMH": 3,
+  "TenMH": "Truyền tin",
+  "SoTiet": 45
+},
+{
+  "_id": {
+    "$oid": "6804b3111c68b5e1805124d2"
+  },
+  "MaMH": 4,
+  "TenMH": "Đồ họa",
+  "SoTiet": 60
+},
+{
+  "_id": {
+    "$oid": "6804b3111c68b5e1805124d3"
+  },
+  "MaMH": 5,
+  "TenMH": "Văn phạm",
+  "SoTiet": 45
+},
+{
+  "_id": {
+    "$oid": "6804b33e1c68b5e1805124d6"
+  },
+  "MaMH": 6,
+  "TenMH": "Kỹ thuật lập trình",
+  "SoTiet": 45
+}]

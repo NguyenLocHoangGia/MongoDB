@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "680671bb99116b47a258352e"
+  },
+  "MaDA": 1,
+  "TenDA": "Sam pham X",
+  "DiaDiem": "Tan Binh",
+  "PhongQL ": 5
+},
+{
+  "_id": {
+    "$oid": "680671bb99116b47a258352f"
+  },
+  "MaDA": 2,
+  "TenDA": "San pham Y",
+  "DiaDiem": "Thu Duc",
+  "PhongQL ": 5
+},
+{
+  "_id": {
+    "$oid": "680671bb99116b47a2583530"
+  },
+  "MaDA": 3,
+  "TenDA": "San pham Z",
+  "DiaDiem": "Phu Nhuan",
+  "PhongQL ": 5
+},
+{
+  "_id": {
+    "$oid": "680671bb99116b47a2583531"
+  },
+  "MaDA": 10,
+  "TenDA": "Tin hoc hoa",
+  "DiaDiem": "Go Vap",
+  "PhongQL ": 4
+},
+{
+  "_id": {
+    "$oid": "680671bb99116b47a2583532"
+  },
+  "MaDA": 20,
+  "TenDA": "Tai to chuc",
+  "DiaDiem": "Phu Nhuan",
+  "PhongQL ": 1
+},
+{
+  "_id": {
+    "$oid": "680671bb99116b47a2583533"
+  },
+  "MaDA": 30,
+  "TenDA": "Phuc loi",
+  "DiaDiem": "Go Vap",
+  "PhongQL ": 4
+}]

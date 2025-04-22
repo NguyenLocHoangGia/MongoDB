@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68050896d28de7adb96393e6"
+  },
+  "MaNV": 123456789,
+  "Ho": "Nguyen",
+  "TenDem": "Bao",
+  "Ten": "Hung",
+  "NgSinh": "09/01/1965",
+  "DiaChi": "73 Phan Dang Luu Phu Nhuan TPHCM",
+  "GTinh": "Nam",
+  "Luong": 30000,
+  "MaGSat": 333445555,
+  "Phong": 5
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393e7"
+  },
+  "MaNV": 333445555,
+  "Ho": "Phan",
+  "TenDem": "Van",
+  "Ten": "Nghia",
+  "NgSinh": "08/12/1955",
+  "DiaChi": "63 Tran Huy Lieu Phu Nhuan TPHCM",
+  "GTinh": "Nam",
+  "Luong": 40000,
+  "MaGSat": 888665555,
+  "Phong": 5
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393e8"
+  },
+  "MaNV": 999887777,
+  "Ho": "Au",
+  "TenDem": "Thi",
+  "Ten": "Vuong",
+  "NgSinh": "19/01/1968",
+  "DiaChi": "32 Cao Ba Nha Q1 TPHCM",
+  "GTinh": "Nu",
+  "Luong": 25000,
+  "MaGSat": 987654321,
+  "Phong": 4
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393e9"
+  },
+  "MaNV": 987654321,
+  "Ho": "Du",
+  "TenDem": "Thi",
+  "Ten": "Hau",
+  "NgSinh": "20/06/1941",
+  "DiaChi": "29 Bach Dang Tan Binh TPHCM",
+  "GTinh": "Nu",
+  "Luong": 43000,
+  "MaGSat": 888665555,
+  "Phong": 4
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393ea"
+  },
+  "MaNV": 666884444,
+  "Ho": "Tran",
+  "TenDem": "Van",
+  "Ten": "Nam",
+  "NgSinh": "15/09/1962",
+  "DiaChi": "97 Dien Bien Phu Binh Thanh TPHCM",
+  "GTinh": "Nam",
+  "Luong": 38000,
+  "MaGSat": 333445555,
+  "Phong": 5
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393eb"
+  },
+  "MaNV": 453453453,
+  "Ho": "Hoang",
+  "TenDem": "Kim",
+  "Ten": "Yen",
+  "NgSinh": "31/07/1972",
+  "DiaChi": "56 Thich Quang Duc Phu Nhuan TPHCM",
+  "GTinh": "Nu",
+  "Luong": 25000,
+  "MaGSat": 333445555,
+  "Phong": 5
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393ec"
+  },
+  "MaNV": 987987987,
+  "Ho": "Nguyen",
+  "TenDem": "Van",
+  "Ten": "Giap",
+  "NgSinh": "29/03/1969",
+  "DiaChi": "98 Huynh Van Banh Phu Nhuan TPHCM",
+  "GTinh": "Nam",
+  "Luong": 25000,
+  "MaGSat": 987654321,
+  "Phong": 4
+},
+{
+  "_id": {
+    "$oid": "68050896d28de7adb96393ed"
+  },
+  "MaNV": 888665555,
+  "Ho": "Le",
+  "TenDem": "Van",
+  "Ten": "Bo",
+  "NgSinh": "10/11/1937",
+  "DiaChi": "45 Ho Van Hue Phu Nhuan TPHCM",
+  "GTinh": "Nam",
+  "Luong": 55000,
+  "MaGSat": " ",
+  "Phong": 1
+}]

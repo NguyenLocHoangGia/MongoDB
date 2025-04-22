@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e0"
+  },
+  "MaSV": "A01",
+  "HoSV": "Nguyễn thị",
+  "TenSV": "Hải",
+  "Phai": 1,
+  "NgaySinh": "23/02/1993",
+  "NoiSinh": "Hà Nội",
+  "MaKhoa": "TH",
+  "HocBong": 130000
+},
+{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e1"
+  },
+  "MaSV": "A02",
+  "HoSV": "Trần văn",
+  "TenSV": "Chính",
+  "Phai": 0,
+  "NgaySinh": "24/12/1992",
+  "NoiSinh": "Bình Định",
+  "MaKhoa": "VL",
+  "HocBong": 150000
+},
+{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e2"
+  },
+  "MaSV": "A03",
+  "HoSV": "Lê thu bạch",
+  "TenSV": "Yến",
+  "Phai": 1,
+  "NgaySinh": "21/02/1993",
+  "NoiSinh": "Tp HCM",
+  "MaKhoa": "TH",
+  "HocBong": 170000
+},
+{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e3"
+  },
+  "MaSV": "A04",
+  "HoSV": "Trần anh",
+  "TenSV": "Tuấn",
+  "Phai": 0,
+  "NgaySinh": "20/12/1994",
+  "NoiSinh": "Hà Nội",
+  "MaKhoa": "AV",
+  "HocBong": 80000
+},
+{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e4"
+  },
+  "MaSV": "B01",
+  "HoSV": "Trần thanh",
+  "TenSV": "Mai",
+  "Phai": 1,
+  "NgaySinh": "12/08/1993",
+  "NoiSinh": "Hải Phòng",
+  "MaKhoa": "TR",
+  "HocBong": 0
+},
+{
+  "_id": {
+    "$oid": "6804b91e1c68b5e1805124e5"
+  },
+  "MaSV": "B02",
+  "HoSV": "Trần thị thu",
+  "TenSV": "Thủy",
+  "Phai": 1,
+  "NgaySinh": "02/01/1994",
+  "NoiSinh": "Tp HCM",
+  "MaKhoa": "AV",
+  "HocBong": 0
+}]

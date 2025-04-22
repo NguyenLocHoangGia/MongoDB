@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "680670cc99116b47a2583526"
+  },
+  "MaNV": 333445555,
+  "TenTN": "Anh",
+  "GTinh": "Nu",
+  "NgSinh": "05/04/1986",
+  "QuanHe ": "Con gai "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a2583527"
+  },
+  "MaNV": 333445555,
+  "TenTN": "The",
+  "GTinh": "Nam",
+  "NgSinh": "25/10/1983",
+  "QuanHe ": "Con trai "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a2583528"
+  },
+  "MaNV": 333445555,
+  "TenTN": "Loi",
+  "GTinh": "Nu",
+  "NgSinh": "03/05/1958",
+  "QuanHe ": "Vo "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a2583529"
+  },
+  "MaNV": 987654321,
+  "TenTN": "An",
+  "GTinh": "Nam",
+  "NgSinh": "28/02/1942",
+  "QuanHe ": "Chong "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a258352a"
+  },
+  "MaNV": 123456789,
+  "TenTN": "Minh",
+  "GTinh": "Nam",
+  "NgSinh": "04/01/1988",
+  "QuanHe ": "Con trai "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a258352b"
+  },
+  "MaNV": 123456789,
+  "TenTN": "Anh",
+  "GTinh": "Nu",
+  "NgSinh": "30/12/1988",
+  "QuanHe ": "Con gai "
+},
+{
+  "_id": {
+    "$oid": "680670cc99116b47a258352c"
+  },
+  "MaNV": 123456789,
+  "TenTN": "Yen",
+  "GTinh": "Nu",
+  "NgSinh": "05/05/1967",
+  "QuanHe ": "Vo"
+}]
